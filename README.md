@@ -12,7 +12,7 @@ A single-page scrolling experience inspired by Magma, built with HTML, CSS, and 
 - Uses CDN libraries (GSAP, ScrollTrigger, Locomotive Scroll, Remix Icon)
 
 ## Demo
-[Real Estate Agency Website]()
+[Real Estate Agency Website]( https://haseebjaved4212.github.io/Real-Estate-Agency-Website/)
 
 ## Tech Stack
 
